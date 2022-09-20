@@ -37,15 +37,15 @@ Essa iniciativa seleciona pesquisadores(as) de diversas partes do Brasil que, ao
 
 A extensão é acompanhada por uma cartilha educativa, que orienta sobre como a extensão funciona e vai além: revela o processo pelo qual foi construída, que configura a própria forma de a Wikipédia captar indicativos de confiabilidade em seu conteúdo. 
 
-<span style="text-decoration:underline;">Baixe aqui a **extensão** Termo-Wiki para instalação local \
- [</span>([https://github.com/fargolo/TermoWiki/archive/refs/heads/main.zip](https://github.com/fargolo/TermoWiki/archive/refs/heads/main.zip))] \
+* [Baixe aqui a **extensão** Termo-Wiki para instalação local]([https://github.com/fargolo/TermoWiki/archive/refs/heads/main.zip)
+
 Atualmente, a extensão está sob análise para publicação na Google Store.
 
-[Baixe aqui a** cartilha** Termo-Wiki](./cartilha.md)
 
 **CARTILHA - PASSO A PASSO PARA BAIXAR A EXTENSÃO?**
-
+* [Baixe aqui a** cartilha** Termo-Wiki](./cartilha.md)
+ 
 Confira o passo a passo para baixar a Termo-Wiki em seu dispositivo:
 
-<span style="text-decoration:underline;">Tutorial sobre instalação de extensão local: </span> \
+* Tutorial sobre instalação de extensão local:
 [[https://canaltech.com.br/navegadores/como-instalar-extensao-no-google-chrome-manualmente/](https://canaltech.com.br/navegadores/como-instalar-extensao-no-google-chrome-manualmente/)]
