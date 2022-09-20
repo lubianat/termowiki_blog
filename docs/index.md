@@ -21,6 +21,10 @@ Conversion notes:
 
 **Termo-Wiki - Termômetro de confiabilidade da Wikipédia**
 
+* [Cartilha Termo-Wiki](./cartilha.md)
+* [Projeto Termo-Wiki](./projeto.md)
+* [Apresentação Termo-Wiki](./pres_hack_week)
+
 A Termo-Wiki é uma extensão para navegadores que coleta informações indicadoras de tendências de confiabilidade em artigos da Wikipédia.
 
 Embora objetive ser uma grande enciclopédia de conhecimentos, a Wikipédia se cerca de desconfiança em meio à comunidade científica quanto à sua confiabilidade. Pesquisas acadêmicas indicam, porém, que a plataforma é extensamente utilizada para consulta por estudantes da educação básica e de graduação.

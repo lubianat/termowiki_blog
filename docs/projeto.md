@@ -132,3 +132,9 @@ Desvendando o Wikipedia - Educamídia
 [https://educamidia.org.br/plano-de-aula/desvendando-a-wikipedia](https://educamidia.org.br/plano-de-aula/desvendando-a-wikipedia)
 
 ESTEVES, Bernardo; CUKIERMAN, H. L. A controvérsia sobre as causas do aquecimento global em 15 artigos da Wikipédia lusófona. **Seminário Nacional de História da Ciência e da Tecnologia**, 2012.
+
+# Veja também 
+
+* [Cartilha Termo-Wiki](./cartilha.md)
+* [Projeto Termo-Wiki](./projeto.md)
+* [Apresentação Termo-Wiki](./pres_hack_week)
