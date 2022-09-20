@@ -43,9 +43,8 @@ Atualmente, a extensão está sob análise para publicação na Google Store.
 
 
 **CARTILHA - PASSO A PASSO PARA BAIXAR A EXTENSÃO?**
-* [Baixe aqui a** cartilha** Termo-Wiki](./cartilha.md)
+* [Baixe aqui a ** cartilha** Termo-Wiki](./cartilha.md)
  
 Confira o passo a passo para baixar a Termo-Wiki em seu dispositivo:
 
-* Tutorial sobre instalação de extensão local:
-[[https://canaltech.com.br/navegadores/como-instalar-extensao-no-google-chrome-manualmente/](https://canaltech.com.br/navegadores/como-instalar-extensao-no-google-chrome-manualmente/)]
+* [Tutorial no canaltech sobre instalação de extensão local](https://canaltech.com.br/navegadores/como-instalar-extensao-no-google-chrome-manualmente/)
