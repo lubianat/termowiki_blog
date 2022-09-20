@@ -137,4 +137,4 @@ ESTEVES, Bernardo; CUKIERMAN, H. L. A controvérsia sobre as causas do aquecimen
 
 * [Cartilha Termo-Wiki](./cartilha.md)
 * [Projeto Termo-Wiki](./projeto.md)
-* [Apresentação Termo-Wiki](./pres_hack_week)
+* [Apresentação Termo-Wiki](./hackweek)

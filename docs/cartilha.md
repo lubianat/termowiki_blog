@@ -5,4 +5,4 @@
 # Veja também 
 
 * [Projeto Termo-Wiki](./projeto.md)
-* [Apresentação Termo-Wiki](./pres_hack_week)
+* [Apresentação Termo-Wiki](./hackweek)

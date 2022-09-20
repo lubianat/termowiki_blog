@@ -23,7 +23,7 @@ Conversion notes:
 
 * [Cartilha Termo-Wiki](./cartilha.md)
 * [Projeto Termo-Wiki](./projeto.md)
-* [Apresentação Termo-Wiki](./pres_hack_week)
+* [Apresentação Termo-Wiki](./hackweek)
 
 A Termo-Wiki é uma extensão para navegadores que coleta informações indicadoras de tendências de confiabilidade em artigos da Wikipédia.
 
