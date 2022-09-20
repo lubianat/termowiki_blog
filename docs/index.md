@@ -19,7 +19,7 @@ Conversion notes:
 * Source doc: Textos complementares
 ----->
 
-**Termo-Wiki - Termômetro de confiabilidade da Wikipédia**
+# Termo-Wiki - Termômetro de confiabilidade da Wikipédia
 
 * [Cartilha Termo-Wiki](./cartilha.md)
 * [Projeto Termo-Wiki](./projeto.md)
@@ -37,14 +37,16 @@ Essa iniciativa seleciona pesquisadores(as) de diversas partes do Brasil que, ao
 
 A extensão é acompanhada por uma cartilha educativa, que orienta sobre como a extensão funciona e vai além: revela o processo pelo qual foi construída, que configura a própria forma de a Wikipédia captar indicativos de confiabilidade em seu conteúdo. 
 
-* [Baixe aqui a **extensão** Termo-Wiki para instalação local]([https://github.com/fargolo/TermoWiki/archive/refs/heads/main.zip)
+## EXTENSÃO
 
-Atualmente, a extensão está sob análise para publicação na Google Store.
+* A extensão está disponível gratuitamente na chrome webstore:[https://chrome.google.com/webstore/detail/termowiki/](https://chrome.google.com/webstore/detail/termowiki/).
 
+Para contribuir, temos um repositório open-source em [https://github.com/fargolo/TermoWiki](https://github.com/fargolo/TermoWiki). 
 
-**CARTILHA - PASSO A PASSO PARA BAIXAR A EXTENSÃO?**
-* [Baixe aqui a ** cartilha** Termo-Wiki](./cartilha.md)
- 
-Confira o passo a passo para baixar a Termo-Wiki em seu dispositivo:
+Confira o passo a passo para baixar a extensão para seu dispositivo:
 
 * [Tutorial no canaltech sobre instalação de extensão local](https://canaltech.com.br/navegadores/como-instalar-extensao-no-google-chrome-manualmente/)
+
+## CARTILHA - CONFIABILIDADE NA WIKIPÉDIA
+* [Baixe aqui a ** cartilha** Termo-Wiki](./cartilha.md)
+ 
