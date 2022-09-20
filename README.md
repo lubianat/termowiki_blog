@@ -18,7 +18,7 @@ A extensão é acompanhada por uma cartilha educativa, que orienta sobre como a 
 
 ## EXTENSÃO
 
-* A extensão está disponível gratuitamente na chrome webstore:[https://chrome.google.com/webstore/detail/termowiki/](https://chrome.google.com/webstore/detail/termowiki/).
+* A extensão está disponível gratuitamente na chrome webstore:[https://chrome.google.com/webstore/detail/termowiki/](https://chrome.google.com/webstore/detail/termowiki/oejccmkkekikdcoljbophfbpecommhhk).
 
 Para contribuir, temos um repositório open-source em [https://github.com/fargolo/TermoWiki](https://github.com/fargolo/TermoWiki). 
 
