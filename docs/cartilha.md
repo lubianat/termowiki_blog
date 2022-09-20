@@ -1,5 +1,3 @@
+# Cartilha do projeto TermoWiki
 
-# Cartilha TermoWiki
-
-<embed data="./assets/cartilha.pdf" width="1000" height="375" 
- type="application/pdf">
+<object data="./assets/cartilha.pdf" width="1000" height="1000" type='application/pdf'></object>

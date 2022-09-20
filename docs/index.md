@@ -19,8 +19,6 @@ Conversion notes:
 * Source doc: Textos complementares
 ----->
 
-![alt_text](images/image6.png "image_tooltip")
-
 **Termo-Wiki - Termômetro de confiabilidade da Wikipédia**
 
 A Termo-Wiki é uma extensão para navegadores que coleta informações indicadoras de tendências de confiabilidade em artigos da Wikipédia.
